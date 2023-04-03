@@ -1,0 +1,58 @@
+﻿<catalog type="soru">
+    <soru id="1" name="● FPS Nasıl yükseltebilirim?" cevap="FPS yükseltebilmeniz için öncelikle ekran çözünürlüğünüzü ve ayarları 
+düşürmeniz gerekmektedir.
+● /antilag yazarakta fps artışı sağlayabilirsiniz."/>
+    <soru id="1" name="● VIP nasıl alabilirim?" cevap="Normal VIP discord sunucumuza katılana, 
+	Megavip 50 saati dolduranlara, 
+	Ultravip ise 100 saati dolduranlara verilmektedir. 
+	NOT: Discord sunucumuza katılıp vip şartlarını yerine getirirseniz vip'e sahip 
+	olursunuz."/>
+    <soru id="2" name="● Discord sunucusuna nasıl katılabilirim?" cevap="/dc panelinden discord davet bağlantısını kopyalayıp
+	discord sunucumuza katılabilirsiniz."/>
+    <soru id="3" name="● Sunucu grafiklerini nasıl ve nerden aktif ederim?" cevap="F1 Panelden ayarlar butonuna tıklayıp sağda açılan
+panelde ki listeden aktif edebilirsiniz.
+NOT: Bilgisayarı iyi olanlar aktif etmesini tavsiye ediyoruz, 
+ister istemez fps düşüşü yaşatır."/>
+    <soru id="3" name="● Parayı nasıl fulleyebilirim?" cevap="/hesoyam yazarak paranızı fulleyebilirsiniz."/>
+    <soru id="4" name="● Saati ve havayı nasıl değiştiririm?" cevap="● /st 12 veya /saat 12 yazarak havayı gündüz
+● /st 00 yazarakta havayı gece yapabilirsiniz.
+
+Hava durumunu /sw 1 /sw 2 /sw 3... 
+komutlar ile değiştirebilirsiniz.
+NOT: Havayı değiştirdiğiniz de sadece kendiniz de değişecektir, 
+diğer oyuncuların hava durumu değişmeyecektir."/>
+    <soru id="5" name="● Sınırsız yetki fiyatları nelerdir?" cevap="〤 SINIRSIZ YETKİ FİYATLARI 〤
+· Server Ortağı: 280 TL
+· Yardımcı Kurucu: 180 TL
+· Baş Admin: 145 TL
+· Admin: 95 TL
+· SüperModeratör: 65 TL
+· Moderatör: 35 TL"/>
+    <soru id="6" name="● Aylık yetki fiyatları nelerdir?" cevap="〤 1 AYLIK YETKİ FİYATLARI 〤
+· Server Ortağı: 180 TL 
+· Yardımcı Kurucu: 120 TL
+· Baş Admin: 75 TL
+· Admin: 50 TL
+· SüperModeratör: 30 TL
+· Moderatör: 20 TL"/>
+    <soru id="7" name="● Silah nerden alabilirim?" cevap="F2 Panel'den silah alabilirsiniz."/>
+    <soru id="8" name="● Becereleri nasıl fulleyebilirsiniz?" cevap="F2'den tüm becerilerinizi fulleyebilirsiniz."/>
+    <soru id="9" name="● Silahlarımı nasıl sıfırlayabilirim?" cevap="F2 panel'den hesabınızda olan tüm silahları sıfırlayabilirsiniz."/>
+    <soru id="10" name="● Aracımı nasıl kaydedebilirim?" cevap="F3 panel'den aracınızı kaydedebilirsiniz."/>
+    <soru id="11" name="● Kamber ayarı nasıl yapabilirim?" cevap="F1 panel'den kamber ayarını seçip aracınıza kamber ayarı yapabilirsiniz."/>
+    <soru id="12" name="● Araç kontrollerini nasıl yapabilirim?" cevap="F4 panel'den araç kaputunu bagajını kapılarını, 
+	farını motorunu ve el frenini açıp kapatabilirsiniz. 
+	Ekstradan tekerlek ayarını da F4 panel'den ayarlayabilirsiniz."/>
+    <soru id="13" name="● Hesapta oynadığım süre zarfını nerden görebilirim?" cevap="TAB tuşuna basılı tutarak açılan listeden görebilirsiniz."/>
+    <soru id="14" name="● Klan nasıl açabilirim?" cevap="F10 klan panelinden kendi klanınızı oluşturabilir
+veya bir başkasının daveti ile klanına katılabilirsiniz."/>
+    <soru id="15" name="● Şikayet nasıl ederim?" cevap="Şikayeti discord'dan ticket açarak bildirebilirsiniz.
+NOT: Şikayet ederken ss almanız şart koşulur."/>
+    <soru id="16" name="● İstekte nasıl bulunabilirim?" cevap="Discord sunucumuzdan sunucumuzda olmasını 
+istediğiniz modu scripti bildirebilirsiniz."/>
+   <soru id="17" name="● Kuralları nerden görebilirim?" cevap="Kuralları F9 tuşunda ki panelden görebilirsiniz."/>
+   <soru id="18" name="● Sunucu sahiplerine nasıl ulaşabilirim?" cevap="Discord sunucumuzdan veya instagram sayfamızdan direkt olarak 
+sunucu sahiplerine ulaşabilirsiniz.
+discord.gg/vgf
+instagram.com/mtavegasfreeroam"/>
+</catalog>

@@ -1,0 +1,45 @@
+﻿<catalog type="skin">
+    <skin id="VG" name=""/>
+    <group name="『 2022  | YENİ KARAKTERLER 』">
+    <skin id="VG" name=""/>
+    <skin id="VG" name="● Erkek Karakterleri ●"/>
+    <skin id="1" name="- Erkek Karakteri - 1"/>
+    <skin id="2" name="- Erkek Karakteri - 2"/>
+    <skin id="7" name="- Erkek Karakteri - 3"/>
+    <skin id="14" name="- Erkek Karakteri - 4"/>
+    <skin id="15" name="- Erkek Karakteri - 5"/>
+    <skin id="17" name="- Erkek Karakteri - 6"/>
+    <skin id="46" name="- Erkek Karakteri - 7"/>
+    <skin id="248" name="- Erkek Karakteri - 8"/>
+    <skin id="60" name="- Erkek Karakteri - 9"/>
+    <skin id="82" name="- Erkek Karakteri - 10"/>
+    <skin id="VG" name=""/>
+    <skin id="VG" name="● Bayan Karakterleri ●"/>
+    <skin id="12" name="- Bayan Karakteri - 1"/>
+    <skin id="13" name="- Bayan Karakteri - 2"/>
+    <skin id="40" name="- Bayan Karakteri - 3"/>
+    <skin id="10" name="- Bayan Karakteri - 4"/>
+    <skin id="53" name="- Bayan Karakteri - 5"/>
+    <skin id="41" name="- Bayan Karakteri - 6"/>
+    <skin id="55" name="- Bayan Karakteri - 7"/>
+    <skin id="11" name="- Bayan Karakteri - 8"/>
+    <skin id="85" name="- Bayan Karakteri - 9"/>
+    <skin id="145" name="- Bayan Karakteri - 10"/>
+    <skin id="VG" name=""/>
+    <skin id="VG" name="● Marvel Karakterleri ●"/>
+    <skin id="146" name="- Örümcek Adam"/>  
+    <skin id="122" name="- Hulk"/>  
+    <skin id="170" name="- Deadpool"/>  
+    <skin id="114" name="- İronman"/>
+    <skin id="115" name="- Flash"/> 
+    <skin id="VG" name=""/>
+    <skin id="VG" name="● Meslek Karakterleri ●"/>
+    <skin id="281" name="- Polis/Erkek"/>
+    <skin id="27" name="- Polis/Kadın"/>
+    <skin id="77" name="- Doktor/Erkek"/>
+    <skin id="69" name="- Doktor/Kadın"/>
+    <skin id="88" name="- Asker/Erkek"/>
+    <skin id="135" name="- Asker/Kadın"/>
+    <skin id="127" name="- İtfaiye"/>
+	</group>
+</catalog>

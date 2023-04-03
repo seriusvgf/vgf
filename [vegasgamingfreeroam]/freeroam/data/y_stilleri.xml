@@ -1,0 +1,44 @@
+<catalog type="walking">
+	
+		<walking id="0" name="DEFAULT" keywords="walking"/>
+		<walking id="54" name="PLAYER" keywords="walking"/>
+		<walking id="55" name="PLAYER_F" keywords="walking"/>
+		<walking id="56" name="PLAYER_M" keywords="walking"/>
+		<walking id="57" name="ROCKET" keywords="walking"/>
+		<walking id="58" name="ROCKET_F" keywords="walking"/>
+		<walking id="59" name="ROCKET_M" keywords="walking"/>
+		<walking id="60" name="ARMED" keywords="walking"/>
+		<walking id="61" name="ARMED_F" keywords="walking"/>
+		<walking id="62" name="ARMED_M" keywords="walking"/>
+		<walking id="63" name="BBBAT" keywords="walking"/>
+		<walking id="64" name="BBBAT_F" keywords="walking"/>
+		<walking id="65" name="BBBAT_M" keywords="walking"/>
+		<walking id="66" name="CSAW" keywords="walking"/>
+		<walking id="67" name="CSAW_F" keywords="walking"/>
+		<walking id="68" name="CSAW_M" keywords="walking"/>
+		<walking id="69" name="SNEAK" keywords="walking"/>
+		<walking id="70" name="JETPACK" keywords="walking"/>
+		<walking id="118" name="MAN" keywords="walking"/>
+		<walking id="119" name="SHUFFLE" keywords="walking"/>
+		<walking id="120" name="OLDMAN" keywords="walking"/>
+		<walking id="121" name="GANG1" keywords="walking"/>
+		<walking id="122" name="GANG2" keywords="walking"/>
+		<walking id="123" name="OLDFATMAN" keywords="walking"/>
+		<walking id="124" name="FATMAN" keywords="walking"/>
+		<walking id="125" name="JOGGER" keywords="walking"/>
+		<walking id="126" name="DRUNKMAN" keywords="walking"/>
+		<walking id="127" name="BLINDMAN" keywords="walking"/>
+		<walking id="128" name="SWAT" keywords="walking"/>
+		<walking id="129" name="WOMAN" keywords="walking"/>
+		<walking id="130" name="SHOPPING" keywords="walking"/>
+		<walking id="131" name="BUSYWOMAN" keywords="walking"/>
+		<walking id="132" name="SEXYWOMAN" keywords="walking"/>
+		<walking id="133" name="PRO" keywords="walking"/>
+		<walking id="134" name="OLDWOMAN" keywords="walking"/>
+		<walking id="135" name="FATWOMAN" keywords="walking"/>
+		<walking id="136" name="JOGWOMAN" keywords="walking"/>
+		<walking id="137" name="OLDFATWOMAN" keywords="walking"/>
+		<walking id="138" name="SKATE" keywords="walking"/>
+	
+
+</catalog>

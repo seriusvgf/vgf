@@ -1,0 +1,184 @@
+<meta>
+	<download_priority_group>10</download_priority_group>
+	<min_mta_version client="1.5.9-6.11342" server="1.5.9-6.11342" />
+	<oop>true</oop>
+	<!-- GENEL -->
+	<script src="imports.lua" type="client" cache="false"/> 
+	<script src="lib.lua" type="client" cache="false"/> 
+	<script src="customrounded.lua" type="client" cache="false"/> 
+	<script src="customgradient.lua" type="client" cache="false"/> 
+	<script src="customblur.lua" type="client" cache="false"/> 
+    <script src="customscreen.lua" type="client" cache="false"/> 
+	<!-- ELEMENTLER -->
+	<script src="elementler/guiCreateWindow.lua" type="client" cache="false"/> 
+	<script src="elementler/guiCreateButton.lua" type="client" cache="false"/> 
+	<script src="elementler/guiCreateCheckBox.lua" type="client" cache="false"/>
+    <script src="elementler/guiCreateRadioButton.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateEdit.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateMemo.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateGridList.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateLoadingBar.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateSquareArrow.lua" type="client" cache="false"/>  
+    <script src="elementler/guiCreateTabPanel.lua" type="client" cache="false"/>  
+    
+	<!-- EXPORTS -->
+    <export function="getLoadUI" type="client" />
+    <export function="guiCreateLoadingBar" type="client" />
+    <!-- WİNDOW -->
+    <export function="guiCreateWindow" type="client" />
+    <export function="guiWindowIsMovable" type="client" />
+    <export function="guiWindowIsSizable" type="client" />
+    <export function="guiWindowSetMovable" type="client" />
+    <export function="guiWindowSetSizable" type="client" />
+	<export function="guiWindowSetCloseVisible" type="client" />
+	<export function="guiWindowGetCloseVisible" type="client" />
+    <!-- LABEL -->
+    <export function="guiCreateLabel" type="client" />
+    <export function="guiLabelGetColor" type="client" />
+    <export function="guiLabelGetFontHeight" type="client" />
+    <export function="guiLabelGetTextExtent" type="client" />
+    <export function="guiLabelSetColor" type="client" />
+    <export function="guiLabelSetHorizontalAlign" type="client" />
+    <export function="guiLabelSetVerticalAlign" type="client" />
+    <!-- BUTTON -->
+    <export function="guiCreateButton" type="client" />
+	<export function="guiSetButtonHoverColor" type="client" />
+	<export function="guiGetButtonHoverColor" type="client" />
+    <!-- SQUARE ARROW -->
+	<export function="guiCreateSquareArrow" type="client" />
+		
+			
+    <!-- CHECKBOX -->
+    <export function="guiCreateCheckBox" type="client" />
+    <export function="guiCheckBoxGetSelected" type="client" />
+    <export function="guiCheckBoxSetSelected" type="client" />
+	<export function="guiCheckBoxSetSelectedColor" type="client" />
+	<export function="guiCheckBoxGetSelectedColor" type="client" />	
+    <!-- RADİOBUTTON -->
+    <export function="guiCreateRadioButton" type="client" />
+    <export function="guiRadioButtonGetSelected" type="client" />
+    <export function="guiRadioButtonSetSelected" type="client" />
+    <export function="guiRadioButtonSetSelectedColor" type="client" />
+	<export function="guiRadioButtonGetSelectedColor" type="client" />	
+    <!-- EDİT -->
+    <export function="guiCreateEdit" type="client" />
+    <export function="guiEditGetCaretIndex" type="client" />
+    <export function="guiEditGetMaxLength" type="client" />
+    <export function="guiEditIsMasked" type="client" />
+    <export function="guiEditIsReadOnly" type="client" />
+    <export function="guiEditSetCaretIndex" type="client" />
+    <export function="guiEditSetMasked" type="client" />
+    <export function="guiEditSetMaxLength" type="client" />
+    <export function="guiEditSetReadOnly" type="client" />
+    <!-- MEMO -->
+    <export function="guiCreateMemo" type="client" />
+    <export function="guiMemoGetCaretIndex" type="client" />
+    <export function="guiMemoGetVerticalScrollPosition" type="client" />
+    <export function="guiMemoSetVerticalScrollPosition" type="client" />
+    <export function="guiMemoIsReadOnly" type="client" />
+    <export function="guiMemoSetCaretIndex" type="client" />
+    <export function="guiMemoSetReadOnly" type="client" />
+    <!-- SCROLL -->
+    <export function="guiCreateScrollBar" type="client" />
+    <export function="guiScrollBarGetScrollPosition" type="client" />
+    <export function="guiScrollBarSetScrollPosition" type="client" />
+    <!-- COMBO -->
+    <export function="guiCreateComboBox" type="client" />
+    <export function="guiComboBoxAddItem" type="client" />
+    <export function="guiComboBoxClear" type="client" />
+    <export function="guiComboBoxGetItemCount" type="client" />
+    <export function="guiComboBoxGetItemText" type="client" />
+    <export function="guiComboBoxGetSelected" type="client" />
+    <export function="guiComboBoxIsOpen" type="client" />
+    <export function="guiComboBoxRemoveItem" type="client" />
+    <export function="guiComboBoxSetItemText" type="client" />
+    <export function="guiComboBoxSetOpen" type="client" />
+    <export function="guiComboBoxSetSelected" type="client" />
+    <!-- SWİTCH -->
+    <export function="guiCreateSwitchButton" type="client" />
+    <export function="guiSwitchButtonGetState" type="client" />
+    <export function="guiSwitchButtonSetState" type="client" />
+    <export function="guiSwitchButtonGetText" type="client" />
+    <export function="guiSwitchButtonSetText" type="client" />
+    <!-- PROG -->
+    <export function="guiCreateProgressBar" type="client" />
+    <export function="guiProgressBarGetProgress" type="client" />
+    <export function="guiProgressBarSetProgress" type="client" />
+    <export function="guiProgressBarGetMode" type="client" />
+    <export function="guiProgressBarSetMode" type="client" />
+    <export function="guiProgressBarGetStyle" type="client" />
+    <export function="guiProgressBarSetStyle" type="client" />
+    <!-- TAB -->
+    <export function="guiCreateTabPanel" type="client" />
+    <export function="guiCreateTab" type="client" />
+    <export function="guiSetSelectedTab" type="client" />
+    <export function="guiGetSelectedTab" type="client" />
+    <export function="guiDeleteTab" type="client" />
+    <export function="guiTabSetHorizontalAlign" type="client" />
+
+        
+    <!-- GRİDLİST -->
+    <export function="guiCreateGridList" type="client" />
+   
+    <!-- UTİLS -->
+    <export function="guiGetPosition" type="client" />
+    <export function="guiSetPosition" type="client" />
+    <export function="guiGetSize" type="client" />
+    <export function="guiSetSize" type="client" />
+    <export function="guiSetText" type="client" />
+    <export function="guiSetFont" type="client" />
+    <export function="guiGetFont" type="client" />
+    <export function="guiGetText" type="client" />
+    <export function="guiSetEnabled" type="client" />
+    <export function="guiSetVisible" type="client" />
+    <export function="guiGetVisible" type="client" />
+    <export function="destroyElement" type="client" />
+    <export function="guiWindowSetSizable" type="client" />
+    <export function="guiWindowSetMovable" type="client" />
+    <export function="guiWindowIsMovable" type="client" />
+    <export function="customCreateFontDX" type="client" />
+    <export function="customCreateFontGui" type="client" />
+    <export function="dxDrawRoundedRectangle" type="client" />
+    <export function="getScreenSource" type="client" />
+    <export function="dxDrawGradientRectangle" type="client" />
+    <export function="getBlurTexture" type="client" />
+    <export function="customCreateLoaderBar" type="client" />
+    <export function="getFontAwesomeIcon" type="client" />
+
+    <export function="reMap" type="client" />
+    <export function="resp" type="client" />
+    <export function="respc" type="client" />
+    <export function="getResponsiveMultipler" type="client" />
+
+
+    <export function="RGBToHex" type="client" />
+    <export function="hex2rgb" type="client" />
+    <export function="rgb2hex" type="client" />
+    <export function="renk" type="client" />
+
+	<!-- DOSYALAR -->
+	<file src="dosyalar/Roboto.ttf" />
+	<file src="dosyalar/RobotoB.ttf" />
+	<file src="dosyalar/RobotoL.ttf" />
+	<file src="dosyalar/OpenSans.ttf" />
+	<file src="dosyalar/BoldFont.ttf" />
+	<file src="dosyalar/gtaFont.ttf" />
+	<file src="dosyalar/FontAwesome.ttf" />
+	<file src="dosyalar/Roboto-bold-italic.ttf" />
+	<file src="dosyalar/Roboto-italic.ttf" />
+	<file src="dosyalar/Bebas.ttf" />
+	<file src="dosyalar/close.png" />
+	<file src="dosyalar/cbos.png" />
+	<file src="dosyalar/ctik.png" />
+	<file src="dosyalar/cdolu.png" />
+
+    <file src="dosyalar/raddolu.png" />
+    <file src="dosyalar/radbos.png" />
+    <file src="dosyalar/spin.png" />
+
+    <file src="dosyalar/1.png"/>
+	<file src="dosyalar/2.png"/>
+	<file src="dosyalar/3.png"/>
+	<file src="dosyalar/4.png"/>
+</meta>
+

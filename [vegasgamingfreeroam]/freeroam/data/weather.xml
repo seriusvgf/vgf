@@ -1,0 +1,22 @@
+<catalog type="weather">
+	<weather id="0" name="Mavi Gökyüzü Bulutlu" />
+	<weather id="1" name="Mavi Gökyüzü Bulutlu 2" />
+	<weather id="2" name="Mavi Gökyüzü Bulutlu 3" />
+	<weather id="3" name="Mavi Gökyüzü Bulutlu 4" />
+	<weather id="4" name="Mavi Gökyüzü Bulutlu 5" />
+	<weather id="5" name="Mavi Gökyüzü Bulutlu 6" />
+	<weather id="6" name="Mavi Gökyüzü Bulutlu 7" />
+	<weather id="7" name="Mavi Gökyüzü Bulutlu 8" />
+	<weather id="8" name="Fırtına" />
+	<weather id="9" name="Sisli" />
+	<weather id="10" name="Açık mavi gökyüzü" />
+	<weather id="11" name="Sıcak, ısı dalgaları" />
+	<weather id="12" name="Donuk, puslu" />
+	<weather id="13" name="Donuk, puslu 2" />
+	<weather id="14" name="Donuk, puslu 3" />
+	<weather id="15" name="Donuk, puslu 4" />
+	<weather id="16" name="Donuk, bulutlu, yağmurlu" />
+	<weather id="17" name="Çok sıcak" />
+	<weather id="18" name="Çok sıcak" />
+	<weather id="19" name="Kum fırtınası" />
+</catalog>
